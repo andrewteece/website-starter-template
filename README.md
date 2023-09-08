@@ -1,3 +1,3 @@
-# website-starter-template
+# website-starter-template with Vite and Sass
 
-with Vite and Sass
+
